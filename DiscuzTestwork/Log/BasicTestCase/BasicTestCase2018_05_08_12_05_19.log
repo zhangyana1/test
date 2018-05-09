@@ -1,0 +1,4 @@
+[2018-05-08 12:05:23][INFO] 加载谷歌驱动
+[2018-05-08 12:05:32][INFO] 打开网址：http://127.0.0.1:8086/install/forum.php
+[2018-05-08 12:05:36][INFO] 对元素[[ChromeDriver: chrome on XP (0d85e492291a8a86299b5043eb9c7511)] -> link text: 默认版块执行点击操作
+[2018-05-08 12:05:37][INFO] 在元素[[ChromeDriver: chrome on XP (0d85e492291a8a86299b5043eb9c7511)] -> id: subject上输入内容：哈哈哈哈哈哈哈哈哈哈哈

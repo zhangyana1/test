@@ -1,0 +1,10 @@
+[2018-05-09 14:03:04][INFO] 加载谷歌驱动
+[2018-05-09 14:03:18][INFO] 打开网址：http://127.0.0.1:8086/install/forum.php
+[2018-05-09 14:03:18][INFO] 在元素[[ChromeDriver: chrome on XP (c117bdebc25276110d541f0ebc34aaae)] -> id: ls_username上输入内容：admin
+[2018-05-09 14:03:18][INFO] 在元素[[ChromeDriver: chrome on XP (c117bdebc25276110d541f0ebc34aaae)] -> id: ls_password上输入内容：admin
+[2018-05-09 14:03:25][INFO] 对元素[[ChromeDriver: chrome on XP (c117bdebc25276110d541f0ebc34aaae)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button执行点击操作
+[2018-05-09 14:03:34][INFO] 对元素[[ChromeDriver: chrome on XP (c117bdebc25276110d541f0ebc34aaae)] -> link text: 管理中心执行点击操作
+[2018-05-09 14:03:36][INFO] 在元素[[ChromeDriver: chrome on XP (c117bdebc25276110d541f0ebc34aaae)] -> name: admin_password上输入内容：admin
+[2018-05-09 14:04:06][INFO] 对元素[[ChromeDriver: chrome on XP (c117bdebc25276110d541f0ebc34aaae)] -> name: submit执行点击操作
+[2018-05-09 14:04:08][INFO] 对元素[[ChromeDriver: chrome on XP (c117bdebc25276110d541f0ebc34aaae)] -> link text: 论坛执行点击操作
+[2018-05-09 14:04:09][INFO] 对元素[[ChromeDriver: chrome on XP (c117bdebc25276110d541f0ebc34aaae)] -> link text: 添加新版块执行点击操作

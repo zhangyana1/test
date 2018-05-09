@@ -1,0 +1,10 @@
+[2018-05-09 12:56:50][INFO] 加载谷歌驱动
+[2018-05-09 12:57:01][INFO] 打开网址：http://127.0.0.1:8086/install/forum.php
+[2018-05-09 12:57:01][INFO] 在元素[[ChromeDriver: chrome on XP (d85628cd582be6b6763c510636442aee)] -> id: ls_username上输入内容：admin
+[2018-05-09 12:57:02][INFO] 在元素[[ChromeDriver: chrome on XP (d85628cd582be6b6763c510636442aee)] -> id: ls_password上输入内容：admin
+[2018-05-09 12:57:08][INFO] 对元素[[ChromeDriver: chrome on XP (d85628cd582be6b6763c510636442aee)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button执行点击操作
+[2018-05-09 12:57:20][INFO] 对元素[[ChromeDriver: chrome on XP (d85628cd582be6b6763c510636442aee)] -> link text: 默认版块执行点击操作
+[2018-05-09 12:57:22][INFO] 对元素[[ChromeDriver: chrome on XP (d85628cd582be6b6763c510636442aee)] -> class name: xst执行点击操作
+[2018-05-09 12:57:24][INFO] 对元素[[ChromeDriver: chrome on XP (d85628cd582be6b6763c510636442aee)] -> link text: 删除主题执行点击操作
+[2018-05-09 12:57:27][INFO] 对元素[[ChromeDriver: chrome on XP (d85628cd582be6b6763c510636442aee)] -> name: modsubmit执行点击操作
+[2018-05-09 12:57:29][INFO] 对元素[[ChromeDriver: chrome on XP (d85628cd582be6b6763c510636442aee)] -> link text: 退出执行点击操作

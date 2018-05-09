@@ -1,0 +1,9 @@
+[2018-05-08 12:53:39][INFO] 加载谷歌驱动
+[2018-05-08 12:53:51][INFO] 打开网址：http://127.0.0.1:8086/install/forum.php
+[2018-05-08 12:53:52][INFO] 在元素[[ChromeDriver: chrome on XP (97c63e06f98f63a1eb995e3256a16b8a)] -> id: ls_username上输入内容：zyn
+[2018-05-08 12:53:53][INFO] 在元素[[ChromeDriver: chrome on XP (97c63e06f98f63a1eb995e3256a16b8a)] -> id: ls_password上输入内容：zyn
+[2018-05-08 12:53:59][INFO] 对元素[[ChromeDriver: chrome on XP (97c63e06f98f63a1eb995e3256a16b8a)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button执行点击操作
+[2018-05-08 12:54:10][INFO] 对元素[[ChromeDriver: chrome on XP (97c63e06f98f63a1eb995e3256a16b8a)] -> link text: 默认版块执行点击操作
+[2018-05-08 12:54:13][INFO] 对元素[[ChromeDriver: chrome on XP (97c63e06f98f63a1eb995e3256a16b8a)] -> class name: xst执行点击操作
+[2018-05-08 12:54:13][INFO] 在元素[[ChromeDriver: chrome on XP (97c63e06f98f63a1eb995e3256a16b8a)] -> id: fastpostmessage上输入内容：啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦
+[2018-05-08 12:54:15][INFO] 对元素[[ChromeDriver: chrome on XP (97c63e06f98f63a1eb995e3256a16b8a)] -> id: fastpostsubmit执行点击操作

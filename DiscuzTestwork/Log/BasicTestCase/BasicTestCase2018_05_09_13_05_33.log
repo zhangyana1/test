@@ -1,0 +1,7 @@
+[2018-05-09 13:05:38][INFO] 加载谷歌驱动
+[2018-05-09 13:05:49][INFO] 打开网址：http://127.0.0.1:8086/install/forum.php
+[2018-05-09 13:05:50][INFO] 在元素[[ChromeDriver: chrome on XP (6238e0c34da53965d683760e7a3b317b)] -> id: ls_username上输入内容：zyn
+[2018-05-09 13:05:50][INFO] 在元素[[ChromeDriver: chrome on XP (6238e0c34da53965d683760e7a3b317b)] -> id: ls_password上输入内容：zyn
+[2018-05-09 13:05:56][INFO] 对元素[[ChromeDriver: chrome on XP (6238e0c34da53965d683760e7a3b317b)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button执行点击操作
+[2018-05-09 13:06:06][INFO] 在元素[[ChromeDriver: chrome on XP (6238e0c34da53965d683760e7a3b317b)] -> id: scbar_txt上输入内容：wwwwwwwwwwwwwwwwwwwwww
+[2018-05-09 13:06:07][INFO] 对元素[[ChromeDriver: chrome on XP (6238e0c34da53965d683760e7a3b317b)] -> id: scbar_btn执行点击操作
